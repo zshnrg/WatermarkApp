@@ -61,3 +61,7 @@ Made by Rozan Ghosani
 
         python main_identifier.py
     ```
+
+## Source
+- [Pembubuhan Watermark Secara Spasial dengan Menggunakan Pseudorandom Noise Pattern](https://drive.google.com/file/d/1kNfujCqYPkXNQz5SO3sUJzShTtmjKgeX/view?usp=sharing)
+- [Multimedia Systems Algorithms, Standards, and Industry Practices (Parag Havaldar, Gerard Medioni)](https://drive.google.com/file/d/1H_mySyf3Idthuxw-aF5DZLTtkduxJ6V_/view)
