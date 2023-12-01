@@ -55,7 +55,7 @@ Made by Rozan Ghosani
 2. Run the code using python
 
     ```
-        python main_embeded.py
+        python main_embed.py
 
         or...
 
