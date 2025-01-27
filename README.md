@@ -62,6 +62,11 @@ Made by Rozan Ghosani
         python main_identifier.py
     ```
 
+## Demonstration and Explanation
+[![Watermarking the Image](https://img.youtube.com/vi/LWfO1_lb_jo/0.jpg)](https://www.youtube.com/watch?v=LWfO1_lb_jo)
+[![Authenticating the Watermarked Image](https://img.youtube.com/vi/XhT-GtRH5no/0.jpg)](https://www.youtube.com/watch?v=XhT-GtRH5no)
+
+
 ## Source
 - [Pembubuhan Watermark Secara Spasial dengan Menggunakan Pseudorandom Noise Pattern](https://drive.google.com/file/d/1kNfujCqYPkXNQz5SO3sUJzShTtmjKgeX/view?usp=sharing)
 - [Multimedia Systems Algorithms, Standards, and Industry Practices (Parag Havaldar, Gerard Medioni)](https://drive.google.com/file/d/1H_mySyf3Idthuxw-aF5DZLTtkduxJ6V_/view)
